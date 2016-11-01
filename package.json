@@ -13,7 +13,7 @@
     "should": "*",
     "mocha": "*",
     "commander": "*",
-    "humanize-number": "0.0.1"
+    "humanize-number": "0.0.2"
   },
   "keywords": [
     "zmq",
